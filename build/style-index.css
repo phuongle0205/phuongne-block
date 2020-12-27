@@ -4,8 +4,16 @@
  *
  * Replace them with your own styles or remove the file completely.
  */
-.wp-block-create-block-phuongne-block {
-  padding: 2px; }
+.wp-block-phuongne-block-border-left-block {
+  padding: 2px;
+  color: red; }
+
+.ph_keyword {
+  padding: 2px 4px;
+  font-size: 100%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px; }
 
 
 /*# sourceMappingURL=style-index.css.map*/
